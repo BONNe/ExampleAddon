@@ -10,6 +10,8 @@ This is Example Addon that shows some usefull features that BentoBox api offers.
 2. Restart the server
 3. In game you can change flags that allows to use current addon.
 
+This Code is a bit outdated and bentobox privde much more functionality now. 
+
 ## Compatibility
 
 - [x] BentoBox - 1.5.0 version
